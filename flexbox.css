@@ -1,3 +1,17 @@
+/*  
+    disini kita menggunakan Property:
+    display: flex;
+    flex-direction:; => row, row-reverse, column, column-reverse
+    justify-content:; => center, flex-start, flex-end, space-between, space-around, space-evenly
+    align-items:; => center, flex-start, flex-end, baseline, stretch
+    align-self:; => center, flex-start, flex-end, baseline, stretch
+    align-content:; => center, flex-start, flex-end, space-between, space-around, space-evenly, stretch
+    order:; => ..., -1, 0, 1, ...
+    flex-grow:; => 1, 2, 3
+    flex-shrink:; => 1, 2, 3
+    flex-basis:; => px, auto
+    flex-wrap:; => wrap, nowrap
+*/
 body{
     background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
